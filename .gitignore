@@ -1,0 +1,6 @@
+/.dynamodb
+/node_modules
+/.webpack
+
+.env
+yarn.lock
